@@ -11,4 +11,8 @@
 :  Import raw data into it, make a database, write queries as per problem statements > server
 :  Create a interactive dashbord linked to ms sql server , or import the csv , data cleaning , data processing usinfg dax > bi
 --->
-### System Design:
+### System Design: <br/>
+![System Design Image](https://github.com/anindyadas2001/pizza_sales/blob/2fe013642a047fa53347e2cda2acfc4bb8260221/SysDesign.png)
+<br/>
+### Power Bi Dashboard screenshots:
+
