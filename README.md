@@ -15,4 +15,11 @@
 ![System Design Image](https://github.com/anindyadas2001/pizza_sales/blob/2fe013642a047fa53347e2cda2acfc4bb8260221/SysDesign.png)
 <br/>
 ### Power Bi Dashboard screenshots:
-
+> Home Page: <br/>
+![Home Page Image](https://github.com/anindyadas2001/pizza_sales/blob/7ba721dcb7580b32bc256abd9362fa2bb3155ac4/Dashboard_Screenshots/Dashboard1.png)
+<br/>
+> Best/ Worst Seller: <br/>
+![Best/ Worst Seller Image](https://github.com/anindyadas2001/pizza_sales/blob/7ba721dcb7580b32bc256abd9362fa2bb3155ac4/Dashboard_Screenshots/Dashboard2.png)
+<br/>
+> Pizza Catagory: <br/>
+![Pizza Catagory Image](https://github.com/anindyadas2001/pizza_sales/blob/7ba721dcb7580b32bc256abd9362fa2bb3155ac4/Dashboard_Screenshots/catagory1.png)
